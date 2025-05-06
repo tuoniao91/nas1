@@ -23,7 +23,7 @@
     
     <!-- 替换为你自己的备案号和链接 -->
     <footer>
-        <a href="https://beian.miit.gov.cn" target="_blank">京ICP备12345678号</a>
+        <a href="https://beian.miit.gov.cn" target="_blank">京ICP</a>
     </footer>
 </body>
 </html>
